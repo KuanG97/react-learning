@@ -7,12 +7,14 @@ node+npm
 
 
 ## 实战
+
 1.[todoList](https://github.com/KuanG97/react-learning/todolist)
 
 ## 快捷链接
-[全部React学习笔记的目录 Click Here>>](https://blog.csdn.net/m0_37136491/article/details/80991578)
 
-[全部Javascript学习笔记的目录 Click Here>>](https://blog.csdn.net/m0_37136491/article/details/80991578）
+[全部React学习笔记的目录 Click Here>>](https://blog.csdn.net/m0_37136491/article/details/81538637)
+
+[全部Javascript学习笔记的目录 Click Here>>](https://blog.csdn.net/m0_37136491/article/details/80991578)
 
 ----------
 
