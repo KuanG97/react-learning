@@ -14,8 +14,8 @@ class TodoItem extends React.Component{
 	handleDelete(){
 		// this.props.delete1(this.props.index);
 		//优化以上代码
-		const {delete1,index}=this.props;
-		delete1(index);
+		const { delete1, index, content}=this.props;
+		delete1(index, content);
 	}
 
 	render(){

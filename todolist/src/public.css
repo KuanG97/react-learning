@@ -1,6 +1,9 @@
 html{
 	background: #f5f5f5;
 }
+ul,li{
+	list-style: none;
+}
 .intput{
 	border-radius: 15px;
 	width: 200px;
@@ -35,4 +38,10 @@ html{
 	background: #fff;
 	text-indent: 14px;
 	margin-top: 10px;
+}
+.tabNum{
+	border-radius: 10px;
+	background-color: #57D1DC;
+	color: #fff;
+	padding: 0 7px;
 }
