@@ -1,23 +1,20 @@
 import React, { Component } from 'react';
+import {Divider} from 'antd';
 
 class Comment extends Component {
     render() {
         return (
             <div className="comment">
+                <Divider orientation="left">
+                    <h3>{this.props.author}<span className="date">
+                        {this.props.date}
+                    </span></h3>
+                </Divider>
                 <div className="content">
-                    <span className="author">
-                        {this.props.author}
-                    </span>
-                    <div className="metadata">
-                        <span className="date">
-                            {this.props.date}
-                        </span>
-                    </div>
                     <div className="text">
                         {this.props.children}
                     </div>
                 </div>
-                <hr />
             </div>
         );
     }

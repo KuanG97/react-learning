@@ -46,7 +46,6 @@ class CommentBox extends Component{
 			<Fragment>
 				<div className="comments">
 					<h1>评论</h1>
-					<hr />
 				</div>
 				<CommentList data={this.state.data} />
 				<CommentForm onCommentSubmit={this.handleCommentSubmit.bind(this)} />
