@@ -17,7 +17,7 @@ class CommentBox extends Component{
 	    setInterval(() => this.getComments(),5000);//每五秒更新请求
 	  }
 
-	getComments(){
+	getComments=()=>{
 	    $.ajax({
 	      url:this.props.url,
 	      dataType:'json',
@@ -33,7 +33,7 @@ class CommentBox extends Component{
 	    });
 	  }
 
-	handleCommentSubmit(comment){
+	handleCommentSubmit=(comment)=>{
 		let comments = this.state.data,//copy旧数据
 			newComments = comments.concat(comment);//旧数据加一条新数据
 
