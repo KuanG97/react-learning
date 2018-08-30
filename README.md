@@ -12,14 +12,19 @@ node+npm
 5. [父子组件用于传递数据— —Props](https://blog.csdn.net/m0_37136491/article/details/81664137)
 6. [状态State && 用JQ和ajax从服务器端得到数据](https://blog.csdn.net/m0_37136491/article/details/81666322)
 7. [子组件将数据传给父组件 && 模拟发送更新给服务端](https://blog.csdn.net/m0_37136491/article/details/81667887)
+8. [状态和生命周期+单向数据流理解](https://blog.csdn.net/m0_37136491/article/details/82015653)
+9.  [在宁皓网基础篇笔记基础上尝试使用AntDesign框架改善todoList的UI](https://blog.csdn.net/m0_37136491/article/details/81669384)
+
+
 
 ## 路由
 ... ...
 
 ## 实战
-
 1. [todoList](https://github.com/KuanG97/react-learning/todolist)
 2. [comment](https://github.com/KuanG97/react-learning/tree/master/pro)
+3. [使用Dva及AntDesign，官网实战后的学习理解](https://blog.csdn.net/m0_37136491/article/details/82189224)
+4. [使用Ant Design Pro，一个企业级开箱即用的中后台前端](https://blog.csdn.net/m0_37136491/article/details/82222122) 
 
 ## 快捷链接
 
